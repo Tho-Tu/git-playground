@@ -1,1 +1,2 @@
 resolving conflict
+more stuff
